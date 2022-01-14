@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Bluetooth POC</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="scan_paired_devices">Scan Paired Devices</string>
+</resources>
